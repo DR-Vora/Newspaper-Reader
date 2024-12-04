@@ -28,7 +28,7 @@ A Python-based Newspaper Reader that fetches the latest news headlines and reads
 ### Installation
 To install the required libraries, run:
 ```bash
-pip install pyttsx3 requests
+pip install pyttsx3 
 ```
 
 ---
@@ -131,5 +131,5 @@ Moving to the next news which is by ...
 ## ✍️ Author
 
 - **Dhairya Vora**  
-  📧 **Email**: voradhairya22@gmail.com 
+  📧 **Email**: voradhairya22@gmail.com <br>
   👉 **LinkedIn**: [Dhairya Vora](https://www.linkedin.com/in/dhairya-vora-475577275)
